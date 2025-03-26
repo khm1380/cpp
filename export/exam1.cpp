@@ -1,3 +1,8 @@
+/*
+ * ai 소프트웨어 학과, 2025591010, 김현민
+ * 저장소 : github.com/khm1380/cpp
+ */
+
 #include <iostream>
 
 double area(int r);
